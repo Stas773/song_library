@@ -39,6 +39,7 @@ PostgreSQL 12+
 http://localhost:8080/swagger/index.html
 
 Основные endpoints:
+
 GET /api/v1/songs - Получить список песен
 
 GET /api/v1/songs/:id/text - Получить текст песни
